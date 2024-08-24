@@ -28,3 +28,4 @@ C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net
 C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\Asp.net core mvc practices.pdb
 C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\Asp.net core mvc practices.genruntimeconfig.cache
 C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\ref\Asp.net core mvc practices.dll
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\Asp.net core mvc practices.sourcelink.json
