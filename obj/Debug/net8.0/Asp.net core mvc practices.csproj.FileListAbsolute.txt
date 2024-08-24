@@ -1,0 +1,30 @@
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\bin\Debug\net8.0\appsettings.json
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\bin\Debug\net8.0\Asp.net core mvc practices.staticwebassets.runtime.json
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\bin\Debug\net8.0\Asp.net core mvc practices.exe
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\bin\Debug\net8.0\Asp.net core mvc practices.deps.json
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\bin\Debug\net8.0\Asp.net core mvc practices.runtimeconfig.json
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\bin\Debug\net8.0\Asp.net core mvc practices.dll
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\bin\Debug\net8.0\Asp.net core mvc practices.pdb
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\Asp.net core mvc practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\Asp.net core mvc practices.AssemblyInfoInputs.cache
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\Asp.net core mvc practices.AssemblyInfo.cs
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\Asp.net core mvc practices.csproj.CoreCompileInputs.cache
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\Asp.net core mvc practices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\Asp.net core mvc practices.RazorAssemblyInfo.cache
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\Asp.net core mvc practices.RazorAssemblyInfo.cs
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\staticwebassets\msbuild.Asp.net core mvc practices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\staticwebassets\msbuild.build.Asp.net core mvc practices.props
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Asp.net core mvc practices.props
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Asp.net core mvc practices.props
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\scopedcss\bundle\Asp.net core mvc practices.styles.css
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\scopedcss\projectbundle\Asp.net core mvc practices.bundle.scp.css
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\Asp.net core mvc practices.dll
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\refint\Asp.net core mvc practices.dll
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\Asp.net core mvc practices.pdb
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\Asp.net core mvc practices.genruntimeconfig.cache
+C:\Users\gol\Desktop\Visual Studio Code\Asp.net core mvc practices\obj\Debug\net8.0\ref\Asp.net core mvc practices.dll
